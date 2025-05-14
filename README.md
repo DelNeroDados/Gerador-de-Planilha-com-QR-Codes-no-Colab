@@ -1,0 +1,1 @@
+# Gerador-de-Planilha-com-QR-Codes-no-Colab
