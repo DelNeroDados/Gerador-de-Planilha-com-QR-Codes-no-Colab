@@ -1,4 +1,4 @@
-#**Gerador de Planilha com QR-Codes no Colab**
+# **Gerador de Planilha com QR-Codes no Colab**
 
 **Descrição**
 Este notebook automatiza, no Google Colab, a coleta de itens (arquivos e pastas) de uma pasta específica do Google Drive, gera links de compartilhamento público e cria QR-Codes para cada item. Ao final, produz uma planilha Excel que inclui os QR-Codes incorporados e um arquivo ZIP contendo todas as imagens geradas.
